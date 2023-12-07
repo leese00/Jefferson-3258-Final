@@ -6,6 +6,8 @@ TagManager:
   tags:
   - point
   - score
+  - trap
+  - boulder
   layers:
   - Default
   - TransparentFX
@@ -15,7 +17,7 @@ TagManager:
   - UI
   - enemy
   - point
-  - 
+  - trap
   - 
   - 
   - 
